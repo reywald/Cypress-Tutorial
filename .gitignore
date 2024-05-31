@@ -1,0 +1,8 @@
+node_modules/
+cypress/videos
+cypress/screenshots
+TestReport/
+mochawesome-report/
+cypress-combined-report.json
+cypress/fixtures/url.json
+cypress/fixtures/data.txt

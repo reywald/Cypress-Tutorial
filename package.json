@@ -1,0 +1,14 @@
+{
+  "name": "cypress-tutorial",
+  "version": "1.0.0",
+  "description": "This is a Cypress Learning Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ikechukwu Agbarakwe",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.10.0"
+  }
+}
