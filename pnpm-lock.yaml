@@ -11,6 +11,9 @@ importers:
       cypress:
         specifier: ^13.10.0
         version: 13.10.0
+      xpath_cypress:
+        specifier: ^1.0.2
+        version: 1.0.2
 
 packages:
 
@@ -651,6 +654,10 @@ packages:
 
   wrappy@1.0.2:
     resolution: {integrity: sha512-l4Sp/DRseor9wL6EvV2+TuQn63dMkPjZ/sp9XkghTEbV9KlPS1xUsZ3u7/IQO4wxtcFB4bgpQPRcR3QCvezPcQ==}
+
+  xpath_cypress@1.0.2:
+    resolution: {integrity: sha512-jFa4d8Uq0VEO4Yu8MlGR0DTY5MNsQbNdpBmC6Ff3b8LwJfemZHKZymxM2UmHiPewChCjsEZJoIfTXMFGC1aohQ==}
+    deprecated: Package no longer supported. Contact Support at https://www.npmjs.com/support for more info.
 
   yauzl@2.10.0:
     resolution: {integrity: sha512-p4a9I6X6nu6IhoGmBqAcbJy1mlC4j27vEPZX9F4L4/vZT3Lyq1VkFHw/V/PUcB9Buo+DG3iHkT0x3Qya58zc3g==}
@@ -1319,6 +1326,8 @@ snapshots:
       strip-ansi: 6.0.1
 
   wrappy@1.0.2: {}
+
+  xpath_cypress@1.0.2: {}
 
   yauzl@2.10.0:
     dependencies:

@@ -9,6 +9,7 @@
   "author": "Ikechukwu Agbarakwe",
   "license": "ISC",
   "devDependencies": {
-    "cypress": "^13.10.0"
+    "cypress": "^13.10.0",
+    "xpath_cypress": "^1.0.2"
   }
 }
